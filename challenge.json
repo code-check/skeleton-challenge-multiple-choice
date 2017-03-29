@@ -7,7 +7,9 @@
     "challenge.json"
   ],
   "tags": [
-    "プリセット"
+    "プリセット",
+    "IT知識",
+    "選択式"
   ],
   "ignores": [
     "INSPECTION*",
