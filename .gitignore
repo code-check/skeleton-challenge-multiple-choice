@@ -1,0 +1,10 @@
+# installed NodeJS modules, which are often very large.
+node_modules/
+
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# because macOS is macOS.
+.DS_Store
