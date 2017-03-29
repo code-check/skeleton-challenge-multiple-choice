@@ -1,39 +1,16 @@
 {
-  "TODO:": "TODO: add 'main' and other configs if necessary. Remove this row.",
-  "editable": [
-    ".gitignore",
-    "package.json",
-    "answer.md",
-    "codecheck.yml"
-  ],
-  "ignores": [
-    "main.*",
-    "INSPECTION*",
-    "PULL_REQUEST_TEMPLATE.md"
-  ],
+  "TODO:": "TODO: add 'main:' and other configs if necessary. Remove this row.",
+  "markdownTest": ["questions.md"],
+  "allowRunTest": false,
+  "allowNewFile": false,
   "excludes": [
-    "*secret*",
     "challenge.json"
   ],
-  "readme": {
-    "ja": "README.md",
-    "en": "README_en.md"
-  },
   "tags": [
     "プリセット"
   ],
-  "cli": [
-    "C/C++",
-    "C#",
-    "Go",
-    "Java",
-    "NodeJS",
-    "PHP",
-    "Python",
-    "Python3",
-    "Ruby",
-    "Scala"
-  ],
-  "allowNewFile": true,
-  "test": "mocha"
+  "ignores": [
+    "INSPECTION*",
+    "PULL_REQUEST_TEMPLATE.md"
+  ]
 }

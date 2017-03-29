@@ -1,3 +1,0 @@
-env:
-  APP_COMMAND: node main.js
-test: mocha
