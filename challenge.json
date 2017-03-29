@@ -13,6 +13,6 @@
   ],
   "ignores": [
     "INSPECTION*",
-    "PULL_REQUEST_TEMPLATE.md"
+    ".github/*"
   ]
 }
