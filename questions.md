@@ -1,6 +1,6 @@
 <!-- TODO: - Add title
            - Add a few questions
-           - Make sure that answers [x] are included in each question. -->
+           - Make sure that answers `- [x]` are included in each question. -->
 
 # {{Challenge Title}}
 

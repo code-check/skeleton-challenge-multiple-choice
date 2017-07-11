@@ -2,6 +2,7 @@
 <!--       - Do all the TODO tasks. -->
 <!--       - Fill out all the `{{}}`s. -->
 <!--       - Remove all `TODO`s and `{{}}`s when complete. -->
+<!-- 	   - Complete the INSPECTION.md checklist -->
 <!--       - For more information about creating challenges, see the [organization docs](http://code-check.github.io/docs/ja/guide_organizing_challenges/) -->
 
 # {{Challenge名}}

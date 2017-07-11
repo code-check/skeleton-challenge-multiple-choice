@@ -5,7 +5,7 @@
 - [ ] [Skeleton-challenge-multiple-choice](https://github.com/code-check/skeleton-challenge-multiple-choice/blob/master/README.md)のひな形に準じた形式になっているか？
 - [ ] 課題となるプログラムの意図は明確か？
 - [ ] 遊び心のある表記になっているか？
-- [ ] 行数は100行以内か？目標値は70行。
+- [ ] 行数は100行以内か？目標値は70行。(長い説明文は受験者にとって負担が高い)
 - [ ] 誤字脱字はないか？
 - [ ] 文末、文体は統一されているか？
 
