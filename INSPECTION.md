@@ -2,7 +2,7 @@
 
 ## 全チャレンジ共通項目
 #### READMEの設定
-- [ ] [Skeleton-challenge-multiple-choice](https://github.com/code-check/skeleton-challenge-multiple-choice/blob/master/README.md)もしくはクライアント指定のひな形に準じた形式になっているか？
+- [ ] [Skeleton-challenge-multiple-choice](https://github.com/code-check/skeleton-challenge-multiple-choice/blob/master/README.md)のひな形に準じた形式になっているか？
 - [ ] 課題となるプログラムの意図は明確か？
 - [ ] 遊び心のある表記になっているか？
 - [ ] 行数は100行以内か？目標値は70行。
@@ -17,16 +17,14 @@
 - [ ] challenge.json は設置されているか？
 - [ ] `markdownTest`セクションにファイル名が配列形式で列挙されているか？
 - [ ] 列挙されているファイルは存在するか？
-- [ ] `allowRunTest`セクションはfalseか？(実行する必要がないため)
+- [ ] `allowRunTest`セクションはfalseか？(ファイル実行する必要がないため)
 - [ ] `allowNewTest`セクションはfalseか？(新規ファイルを作成する必要がないため)
 - [ ] excludes の設定は適切か？
   - [ ] challenge.json はexcludeされているか？
-  - [ ] 秘匿すべきファイルはexcludeされているか？
+  - [ ] その他受験者から秘匿すべきファイルはexcludeされているか？
 - [ ] ignores の設定は適切か？
-  - [ ] サンプル解答コードは除外されているか？
-  - [ ] サンプル解答コードは一般的に使われているディレクトリ(`/app`など)以外で作られているか？
-    - 指定されたディレクトリ名でプログラムを実装した時の挙動が保証できないため
   - [ ] `INSPECTION.md` 及び `.github/`は除外されているか？
+  - [ ] その他codecheck上で一切無視すべきファイルはexcludeされているか？
 
 #### codecheck.ymlの設定
 - [ ] codecheck.yml は不在か？(ローカル受験は実施しないため)
@@ -39,14 +37,10 @@
 - [ ] 解答未記入時に、全てのテストケースは`fail`するか？
 - [ ] 満点回答で全てのテストケースは`pass`するか？
 
-#### Githubの設定
-- [ ] `master`をprotected branchとして設定できているか？
-
 #### 機能点検
-- [ ] code-developでチャレンジとしてインポートできるか？
-- [ ] excludes かignoreと設定されるべきファイルは表示されていない状況か？
+- [ ] codecheck.ioでチャレンジとしてインポートできるか？
+- [ ] excludes・ignoreと設定したファイルは表示されていない状況か？
 - [ ] 満点回答をした場合、webeditorで全てのユニットテストはパスするか？
-- [ ] 満点回答をした場合、local受験で全てのユニットテストはパスするか？
 
 #### ユーザー受け入れ点検
 - [ ] 第三者に作成した問題を解いてもらったか？

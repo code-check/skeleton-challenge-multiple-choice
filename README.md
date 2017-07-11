@@ -2,11 +2,11 @@
 <!--       - Do all the TODO tasks. -->
 <!--       - Fill out all the `{{}}`s. -->
 <!--       - Remove all `TODO`s and `{{}}`s when complete. -->
-<!--       - For more information, see [codecheck-contents CONTRIBUTING.md](https://github.com/givery-technology/codecheck-contents/blob/master/CONTRIBUTING.md) -->
+<!--       - For more information about creating challenges, see the [organization docs](http://code-check.github.io/docs/ja/guide_organizing_challenges/) -->
 
 # {{Challenge名}}
 
-このチャレンジでは技術力とは別に、情報セキュリティに関する  
+このチャレンジでは技術力とは別に、{{challenge topic}}に関する  
 知識を評価するために広く基礎的事項についての理解度を問います。
 
 ## ザ・ミッション

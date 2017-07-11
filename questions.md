@@ -1,6 +1,6 @@
 <!-- TODO: - Add title
-           - Add at least 20 questions
-           - Make sure that answers are added. -->
+           - Add a few questions
+           - Make sure that answers [x] are included in each question. -->
 
 # {{Challenge Title}}
 
