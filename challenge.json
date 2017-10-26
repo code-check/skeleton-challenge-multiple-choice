@@ -1,10 +1,12 @@
 {
   "TODO:": "TODO: add 'main:' and other configs if necessary. Remove this row.",
+  "main": "questions.md",
   "markdownTest": ["questions.md"],
   "allowRunTest": false,
   "allowNewFile": false,
   "excludes": [
-    "challenge.json"
+    "challenge.json",
+    ".gitignore"
   ],
   "tags": [
     "プリセット",
