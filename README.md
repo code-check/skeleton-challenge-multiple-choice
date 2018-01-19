@@ -17,7 +17,7 @@
 - **こまめにSaveボタンをクリック** してください。
 - 一度もSaveボタンをクリックしないでTimeUpになった場合は、  
   無回答として提出されてしまいます。  
-![Saveボタン](images/save-button.png)
+![Saveボタン](https://raw.githubusercontent.com/code-check/skeleton-challenge-multiple-choice/master/images/save-button.png)
 - 必ずしも1問目から解く必要はありません。  
   解ける設問から回答してください。
 - 設問の選択肢は複数チェックが入れられるチェックボックスに  
